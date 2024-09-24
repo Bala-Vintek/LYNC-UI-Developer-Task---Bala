@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.eeb58ef2.css",
-    "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.dba54828.js",
+    "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.344e6a03.js",
     "static/js/453.a09ff090.chunk.js": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js",
     "static/media/logo.svg": "/LYNC-UI-Developer-Task---Bala/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/LYNC-UI-Developer-Task---Bala/index.html",
     "main.eeb58ef2.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.eeb58ef2.css.map",
-    "main.dba54828.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.dba54828.js.map",
+    "main.344e6a03.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.344e6a03.js.map",
     "453.a09ff090.chunk.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeb58ef2.css",
-    "static/js/main.dba54828.js"
+    "static/js/main.344e6a03.js"
   ]
 }
