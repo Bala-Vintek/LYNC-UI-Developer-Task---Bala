@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.bb5e6718.css",
-    "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.b3bde50c.js",
+    "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.11bb487c.css",
+    "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.e896ba07.js",
     "static/js/453.a09ff090.chunk.js": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js",
     "static/media/Group 12.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Group 12.34d1233dc6183ae6c4728d3a83dd1e7e.svg",
     "static/media/BG Pattern.svg": "/LYNC-UI-Developer-Task---Bala/static/media/BG Pattern.02b7643df0fd7da60de8.svg",
     "static/media/Background.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Background.184aee3068a31e314501.svg",
     "index.html": "/LYNC-UI-Developer-Task---Bala/index.html",
     "static/media/Arrow_alt_lright_alt.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Arrow_alt_lright_alt.26b72cc37c144138b458364d1a61b806.svg",
-    "main.bb5e6718.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.bb5e6718.css.map",
-    "main.b3bde50c.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.b3bde50c.js.map",
+    "main.11bb487c.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.11bb487c.css.map",
+    "main.e896ba07.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.e896ba07.js.map",
     "453.a09ff090.chunk.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb5e6718.css",
-    "static/js/main.b3bde50c.js"
+    "static/css/main.11bb487c.css",
+    "static/js/main.e896ba07.js"
   ]
 }
