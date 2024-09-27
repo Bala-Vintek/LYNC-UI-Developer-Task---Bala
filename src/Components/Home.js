@@ -22,8 +22,14 @@ const Home = () =>{
             <div className='home-cont'>Launch Your Game</div>
             <div className='home-cont'>on <span>Web 3.0</span> in Minutes</div>
         <div className='home-cont-secon'><span>We help game developers to launch their game on Web 3.0, by keeping </span><span>
-            blockchain complexities aside with WebWorld SDKs!</span></div>
+            blockchain complexities aside with WebWorld SDKs!</span>
         </div>
+        <div className='btn-wrap'>
+            <button className='get-start'>Get started <img src={Arrow} alt="img" /></button>
+            <div>View Docs<img src={Arrow} alt="img" /></div>
+        </div>
+        </div>
+        
         </div>
     )
 }

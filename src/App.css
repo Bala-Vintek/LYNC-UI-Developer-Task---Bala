@@ -91,3 +91,26 @@
 .home-cont-secon span{
   display: block;
 }
+.btn-wrap{
+  display: flex;
+  gap:45px;
+  margin-top: 22px;
+  justify-content: space-between;
+}
+.btn-wrap img{
+  color:#fff;
+}
+.get-start{
+  background: linear-gradient(205.14deg, #3F37C9 30.04%, #4CC9F0 186.57%);
+  border-radius: 20px;
+  width:160px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+}
