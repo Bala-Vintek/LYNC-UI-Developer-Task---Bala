@@ -1,19 +1,34 @@
 {
   "files": {
-    "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.d9aab452.css",
-    "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.ae5a9e89.js",
+    "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.dc0230ec.css",
+    "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.45e0ec3a.js",
     "static/js/453.a09ff090.chunk.js": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js",
+    "static/media/LongHashX White 1.svg": "/LYNC-UI-Developer-Task---Bala/static/media/LongHashX White 1.4898871121f17bf8f89a1f573d0eb8b9.svg",
+    "static/media/SOM_Website_Logo (1) 1.svg": "/LYNC-UI-Developer-Task---Bala/static/media/SOM_Website_Logo (1) 1.1f17749d2285400b1d52d14021e1c095.svg",
+    "static/media/image 87.svg": "/LYNC-UI-Developer-Task---Bala/static/media/image 87.aa25c57563a390c18f1e83fb7b9f3d04.svg",
+    "static/media/image 89.svg": "/LYNC-UI-Developer-Task---Bala/static/media/image 89.424c64ee3299daf76590f035cd3777c4.svg",
+    "static/media/image 88.svg": "/LYNC-UI-Developer-Task---Bala/static/media/image 88.802b9ec5280a426b9d9142c1df2a47e6.svg",
+    "static/media/image 90.svg": "/LYNC-UI-Developer-Task---Bala/static/media/image 90.0484ee461213dbf2388c4b4261b0a977.svg",
+    "static/media/image 39.svg": "/LYNC-UI-Developer-Task---Bala/static/media/image 39.e01ea5e99a8e3d1584042cd84340c52a.svg",
+    "static/media/Axelar Logo Full White 1.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Axelar Logo Full White 1.eea95f8ad0015f191a048c6d276bad05.svg",
+    "static/media/freepik--Floor--inject-64.svg": "/LYNC-UI-Developer-Task---Bala/static/media/freepik--Floor--inject-64.206318f2be47fb887efe.svg",
     "static/media/Group 12.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Group 12.34d1233dc6183ae6c4728d3a83dd1e7e.svg",
+    "static/media/BG_Mobile.svg": "/LYNC-UI-Developer-Task---Bala/static/media/BG_Mobile.2e0abcf0e53ca1416b22.svg",
+    "static/media/BG Pattern_Tab.svg": "/LYNC-UI-Developer-Task---Bala/static/media/BG Pattern_Tab.cfad8e4cc15328e5c50f.svg",
     "static/media/BG Pattern.svg": "/LYNC-UI-Developer-Task---Bala/static/media/BG Pattern.02b7643df0fd7da60de8.svg",
+    "static/media/Background_mobile.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Background_mobile.1816160f14f9ad98f738.svg",
     "static/media/Background.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Background.184aee3068a31e314501.svg",
     "index.html": "/LYNC-UI-Developer-Task---Bala/index.html",
+    "static/media/Bg gradient.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Bg gradient.3aea4fd770828bbaa5f5.svg",
+    "static/media/Arrow_alt_lright.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Arrow_alt_lright.9a3a4de76b60b19a97f33aef43e33e6a.svg",
+    "static/media/Line 250.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Line 250.bc875efdcd63c31c0d05162ca809753e.svg",
     "static/media/Arrow_alt_lright_alt.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Arrow_alt_lright_alt.26b72cc37c144138b458364d1a61b806.svg",
-    "main.d9aab452.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.d9aab452.css.map",
-    "main.ae5a9e89.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.ae5a9e89.js.map",
+    "main.dc0230ec.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.dc0230ec.css.map",
+    "main.45e0ec3a.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.45e0ec3a.js.map",
     "453.a09ff090.chunk.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9aab452.css",
-    "static/js/main.ae5a9e89.js"
+    "static/css/main.dc0230ec.css",
+    "static/js/main.45e0ec3a.js"
   ]
 }
