@@ -1,0 +1,108 @@
+:root{
+    --var-primary:68px;
+    --var-secondari:38px;
+    --var-pfw:900;
+    --var-sfw:700;
+    --var-secon-color:#DADDD8;
+    }
+@media screen and (max-width:1024px){
+.navbar{
+    min-width:600px;
+}
+    .sec2{
+  background:url("../images/BG\ Pattern_Tab.svg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  margin-top: -100px;
+  height:50vh;
+}
+.home-cont{
+    font-size: var(--var-primary);
+    font-weight: var(--var-pfw);
+    align-items: center;
+  }
+}
+@media (max-width: 1024px) {  
+    .nav-center {  
+        display: none;  
+    }  
+    
+    .hamburger {  
+        display: flex; /* Show hamburger icon on small screens */ 
+        height: 32px;
+        width:32px; 
+    }  
+    .bar{
+        background-color:#fff;
+    }
+    .mobile-menu {  
+        /* display: none;  */
+        flex-direction: column; /* Stack items vertically */  
+        gap: 30px; /* Space between items in mobile menu */ 
+        background-color: #0E0D0D;
+        min-width: 600px;
+        border-radius: 24px;
+        z-index:999;
+        position: relative;
+        right:-100%;
+        top:180px;
+        padding:30px 0;
+        font-size: 18px;
+        font-weight: 700;
+        font-family: Sathosi, sans-serif;
+        height: fit-content;
+    }  
+
+    .mobile-menu.active {  
+        display: flex; /* Show mobile menu when active */  
+        transition: right 0.3s ease-in-out;
+        right:0;
+    }  
+}  
+@media screen and (max-width:576px){
+    .navbar{
+        min-width:300px;
+    }
+    .mobile-menu{
+        min-width: 350px;
+    }    
+    .get-starts{
+        display: none;
+    }
+    .btn-wrap{
+        display: block;
+    }
+    .sec1{
+        background: url("../images/Background_mobile.svg");
+        height:200px;
+    }
+    .home-cont-secon span{
+        display: inline;
+      }
+    .sec2{
+      background:url("../images/BG_Mobile.svg");
+      background-repeat: no-repeat;
+      background-position-x: center;
+      margin-top: -50px;
+      height:60vh;
+    }
+    .home-cont{
+        font-size: var(--var-secondari);
+        font-weight: var(--var-pfw);
+        align-items: center;
+      }
+    .home-cont-secon{
+        font-size: 14px;
+        line-height: 19px;
+        margin-top: 23px;
+    }
+    .get-start{
+        width:300px;
+        justify-content: center;
+        gap:10px;
+    }
+    .view-docs{
+        margin-top: 23px;
+        justify-content: center;
+    }
+}
