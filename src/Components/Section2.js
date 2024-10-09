@@ -9,7 +9,9 @@ import Sec5Image2 from "../images/Blockchain/image 89.svg";
 import Sec5Image3 from "../images/Blockchain/SOM_Website_Logo (1) 1.svg";
 import Sec5Image4 from "../images/Blockchain/image 90.svg";
 import Sec5Image5 from "../images/Blockchain/image 87.svg";
-
+import Background from "../images/Blockchain/Bg gradient.svg";
+import Section7img from "../images/Power Up.png";
+import Sec7img from "../images/Eth animation.svg";
 const Home = () =>{
     return(
         <div>
@@ -21,6 +23,7 @@ const Home = () =>{
                 <img src={SecImage3} alt="img" />
             </div>
         </div>
+        {/* <img src={Background} alt="img" /> */}
         <div className='sec-wrap'>
         <div className='sec4'>
             <img src={Line} alt="img" />
@@ -38,13 +41,16 @@ const Home = () =>{
             </div>
         </div>
         </div>
+        
+        <div className='sec7'>
         <div className='sec6'>
             <div className='sec6-cont'>Power Up Your Web3 Game Development, With <span>LYNC SDKs</span></div>
             <div className='sec6-sub-cont'>LYNC SDKs can be easily integrated into game engines like Unity 3D and Unreal Engine in a few clicks.</div>
         </div>
+            <img src={Section7img} alt="img" />
+            <img src={Sec7img} alt="img" className='sec7-img'/>
+        </div>
         <div className='footer'>
-        <div className='sec6-cont'>Power Up Your Web3 Game Development, With <span>LYNC SDKs</span></div>
-        <div className='sec6-sub-cont'>LYNC SDKs can be easily integrated into game engines like Unity 3D and Unreal Engine in a few clicks.</div>
         </div>
         </div>
     )
