@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.070a63ad.css",
+    "main.css": "/LYNC-UI-Developer-Task---Bala/static/css/main.228fe3e0.css",
     "main.js": "/LYNC-UI-Developer-Task---Bala/static/js/main.8ffe892a.js",
     "static/js/453.a09ff090.chunk.js": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js",
     "static/media/LongHashX White 1.svg": "/LYNC-UI-Developer-Task---Bala/static/media/LongHashX White 1.4898871121f17bf8f89a1f573d0eb8b9.svg",
@@ -26,12 +26,12 @@
     "static/media/Arrow_alt_lright.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Arrow_alt_lright.9a3a4de76b60b19a97f33aef43e33e6a.svg",
     "static/media/Line 250.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Line 250.bc875efdcd63c31c0d05162ca809753e.svg",
     "static/media/Arrow_alt_lright_alt.svg": "/LYNC-UI-Developer-Task---Bala/static/media/Arrow_alt_lright_alt.26b72cc37c144138b458364d1a61b806.svg",
-    "main.070a63ad.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.070a63ad.css.map",
+    "main.228fe3e0.css.map": "/LYNC-UI-Developer-Task---Bala/static/css/main.228fe3e0.css.map",
     "main.8ffe892a.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/main.8ffe892a.js.map",
     "453.a09ff090.chunk.js.map": "/LYNC-UI-Developer-Task---Bala/static/js/453.a09ff090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.070a63ad.css",
+    "static/css/main.228fe3e0.css",
     "static/js/main.8ffe892a.js"
   ]
 }
